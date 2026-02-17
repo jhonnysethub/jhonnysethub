@@ -10,12 +10,13 @@
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
     <td valign="top" width="58%">
-      <h3>🚀 Sobre</h3>
+      <h4>🚀 O que eu faço</h4>
       <p>
-        <sub>
-          Técnico em Programação de Jogos Digitais, com experiência em projetos práticos em Unity e desenvolvimento web.
-          Busco minha primeira oportunidade profissional para crescer na área de tecnologia e contribuir com soluções eficientes.
-        </sub>
+        <ul>
+         <li>Desenvolvimento de jogos 2D/3D na Unity</li>
+         <li>Lógica de gameplay e sistemas</li>
+         <li>Desenvolvimento Web</li>
+        </ul>
       </p>
     </td>
     <td width="4%"></td>
