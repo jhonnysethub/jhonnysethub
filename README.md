@@ -1,4 +1,4 @@
-<h1 align="center">Jhonny 👋</h1>
+<h1 align="center">Jhonny Emanoel</h1>
 
 <p align="center">
   🎮 Desenvolvedor | 💻 Tecnologia | 📍 Recife - PE
