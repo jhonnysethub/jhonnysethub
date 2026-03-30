@@ -2,7 +2,6 @@
 
 <ul>
   <li>🎮 Desenvolvedor</li>
-  <li>💻 Apaixonado por tecnologia</li>
   <li>📍 Recife - PE</li>
 </ul>
 
